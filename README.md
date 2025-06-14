@@ -37,17 +37,22 @@ A responsive front-end clone of the Myntra shopping website built using **HTML, 
 To run the project locally:
 
 git clone https://github.com/PranshulBajaj/Myntra-Clone.git
+
 cd Myntra-Clone
 
 Open index.html with Live Server or in your browser
 
 ---
 
-📌 To-Do / Future Enhancements
+## 📌 To-Do / Future Enhancements
 -Add search & filter functionality
+
 -Integrate backend using Node.js/Express
+
 -Improve mobile experience
+
 -Add login/auth system
+
 
 ---
 
