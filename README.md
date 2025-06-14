@@ -37,7 +37,7 @@ To run the project locally:
 
 git clone https://github.com/PranshulBajaj/Myntra-Clone.git
 cd Myntra-Clone
-# Open index.html with Live Server or in your browser
+Open index.html with Live Server or in your browser
 
 ---
 
