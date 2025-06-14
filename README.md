@@ -22,27 +22,6 @@ A responsive front-end clone of the Myntra shopping website built using **HTML, 
 
 ---
 
-## 🗂️ Project Structure
-
-📁 myntra-clone/
-├── index.html → Landing page
-├── shop-items.html → Products page
-├── bagpage.html → Cart/Bag page
-├── style.css → Global styles
-├── shop-items.css → Styles for product page
-├── bagpage.css → Styles for bag/cart page
-├── script.js → Core script
-├── items.js → Product list logic
-├── bagpage.js → Bag/cart functionality
-├── /images/ → Image assets
-└── /img/ → Additional media
-
-yaml
-Copy
-Edit
-
----
-
 ## ⚙️ Tech Stack
 
 - HTML5
@@ -56,10 +35,12 @@ Edit
 
 To run the project locally:
 
-```bash
 git clone https://github.com/PranshulBajaj/Myntra-Clone.git
 cd Myntra-Clone
 # Open index.html with Live Server or in your browser
+
+---
+
 📌 To-Do / Future Enhancements
 Add search & filter functionality
 
@@ -70,6 +51,8 @@ Store cart data in localStorage or database
 Improve mobile experience
 
 Add login/auth system
+
+---
 
 🙋‍♂️ Author
 Made with 💖 by Pranshul Bajaj
